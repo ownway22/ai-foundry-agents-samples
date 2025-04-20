@@ -12,7 +12,7 @@ For more details, please refer to [Azure AI Foundry documentation](https://learn
 
 - An active Azure subscription
 - Access to Azure AI Foundry
-- Python 3.9+ (for local agent samples)
+- Python 3.10+ (for local agent samples)
 - VS Code with Azure extensions recommended
 
 ## 🚀 Getting Started
