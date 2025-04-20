@@ -6,6 +6,8 @@ Welcome to the **Azure AI Foundry Agents Samples** repository! This collection s
 
 Azure AI Foundry is a trusted, integrated platform for Developers and IT Administrators to design, customize, and manage AI applications and agents.
 
+For more details, please refer to [Azure AI Foundry documentation](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry).
+
 ## 🛠️ Requirements
 
 - An active Azure subscription
