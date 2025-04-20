@@ -1,57 +1,37 @@
-# Project Name
+# Azure AI Foundry Agents Samples
 
-(short, 1-3 sentenced, description of the project)
+Welcome to the **Azure AI Foundry Agents Samples** repository! This collection showcases sample implementations, templates, and demos for building intelligent agents using **Azure AI Foundry**. Whether you're just getting started or looking to deepen your skills, these examples will help you harness the power of AI in your applications.
 
-## Features
+## 🔍 What is Azure AI Foundry?
 
-This project framework provides the following features:
+Azure AI Foundry is a trusted, integrated platform for Developers and IT Administrators to design, customize, and manage AI applications and agents.
 
-* Feature 1
-* Feature 2
-* ...
+## 🛠️ Requirements
 
-## Getting Started
+- An active Azure subscription
+- Access to Azure AI Foundry
+- Python 3.9+ (for local agent samples)
+- VS Code with Azure extensions recommended
 
-### Prerequisites
+## 🚀 Getting Started
 
-(ideally very short, if any)
+1. Clone the repo:
+```
+git clone https://github.com/<your-username>/azure-ai-foundry-agents-mcp-samples.git
+```
 
-- OS
-- Library version
-- ...
+2. Navigate to the folder of interest:
+```
+cd examples/<examples-name>
+```
 
-### Installation
+3. Follow the instructions in the `README.md` file within each sample directory to run the example.
 
-(ideally very short)
+## 📄 License
 
-- npm install [package name]
-- mvn install
-- ...
+This project is licensed under the MIT License. See `LICENSE.txt` for more information.
 
-### Quickstart
-(Add steps to get up and running quickly)
+## 🙌 Contributing
 
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+Have a cool agent or MCP integration to share?  
+Pull requests are welcome! Please open an issue first to discuss what you would like to add.
