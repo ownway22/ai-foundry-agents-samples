@@ -6,11 +6,14 @@ Welcome to the **Azure AI Foundry Agents Samples** repository! This collection s
 
 Azure AI Foundry is a trusted, integrated platform for Developers and IT Administrators to design, customize, and manage AI applications and agents.
 
+For more details, please refer to [Azure AI Foundry documentation](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry).
+
 ## 🛠️ Requirements
 
 - An active Azure subscription
 - Access to Azure AI Foundry
-- Python 3.9+ (for local agent samples)
+- Python 3.10+
+- NPM and Node.js to run the MCP Server
 - VS Code with Azure extensions recommended
 
 ## 🚀 Getting Started
