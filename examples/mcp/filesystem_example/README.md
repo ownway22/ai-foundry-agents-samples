@@ -25,13 +25,27 @@ Under the hood:
 
 ```
 python3 -m venv .venv
+```
+
+#### MacOS/Linux
+```
 source .venv/bin/activate
+```
+
+#### Windows
+```
+venv\Scripts\activate
 ```
 
 ### Install dependencies
 
 ```
 pip install -r requirements.txt
+```
+
+### Install npx 
+```
+npm install -g npx
 ```
 
 ### Rename `.env_sample` to `.env`
