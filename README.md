@@ -20,7 +20,7 @@ For more details, please refer to [Azure AI Foundry documentation](https://learn
 
 1. Clone the repo:
 ```
-git clone https://github.com/<your-username>/azure-ai-foundry-agents-mcp-samples.git
+git clone https://github.com/Azure-Samples/ai-foundry-agents-samples.git
 ```
 
 2. Navigate to the folder of interest:
