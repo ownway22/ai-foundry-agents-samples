@@ -32,7 +32,8 @@ async def run(mcp_server: MCPServer):
     agent = Agent(
         name="Assistant",
         instructions="Use the tools to read the filesystem and answer questions based on those files.",
-        model=OpenAIChatCompletionsModel(model=os.getenv("AZURE_OPENAI_CHAT_DEPLOYMENT_NAME"), openai_client=azure_open_ai_client),
+        model=OpenAIChatCompletionsModel(model=os.getenv("AZURE_OPENAI_CHAT_DEPLOYMENT_NAME"), 
+                                         openai_client=azure_open_ai_client),
         mcp_servers=[mcp_server],
     )
 
